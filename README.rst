@@ -142,7 +142,7 @@ See the web page https://scikit-learn.org/dev/developers/contributing.html#testi
 for more information.
 
     To control random number generation during testing, set the environment variable:
-    ```export SKLEARN_SEED=<seed_value>```
+    ``export SKLEARN_SEED=<seed_value>``
 
 Submitting a Pull Request
 ~~~~~~~~~~~~~~~~~~~~~~~~~
